@@ -1,0 +1,11 @@
+
+.mod_attitudepoint_listbuttons input[type="submit"]{
+	width: 400px;
+	/*float: left;*/
+}
+
+.mod_attitudepoint_actionbuttons {
+	display: flex;
+	float: right;
+}
+
